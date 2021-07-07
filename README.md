@@ -1,6 +1,6 @@
 # Speech Emotion Recognition
 
-Machine Learning in Multimedia Data - Assignment for MSc in Artificial Intelligence 2020-2021 (University of Piraeus-NCSR DEMOKRITOS).
+Deep Learning - Assignment for MSc in Artificial Intelligence 2020-2021 (University of Piraeus-NCSR DEMOKRITOS).
 
 Title: Speech Emotion Recognition with CNN using MFCCs<br>
 Authors: Stergios Giannios, Thanasis Tsitos
